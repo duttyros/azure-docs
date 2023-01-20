@@ -19,7 +19,7 @@ The VMware solution software versions used in new deployments of Azure VMware So
 | ESXi                         |    7.0 U3c   |
 | vSAN                         |    7.0 U3c   |
 | vSAN on-disk format          |    10        |
-| HCX                          |    4.4.2     |
+| HCX                          |    4.5.0     |
 | VMware NSX-T Data Center <br />**NOTE:** VMware NSX-T Data Center is the only supported version of NSX Data Center.               |      [[!INCLUDE [nsxt-version](nsxt-version.md)]](https://docs.vmware.com/en/VMware-NSX-T-Data-Center/3.1/rn/VMware-NSX-T-Data-Center-312-Release-Notes.html)     |
 
 
